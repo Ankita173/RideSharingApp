@@ -21,5 +21,5 @@ These additional references should also help you:
 * [Gradle Build Scans – insights for your project's build](https://scans.gradle.com#gradle)
 
 ### LLD
-![img.png](img.png)
+![LLD](lld.png)
 
